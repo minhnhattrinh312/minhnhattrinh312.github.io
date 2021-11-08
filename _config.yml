@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: minh nhat blog
+title: Minh Nhat Blog
 
 # Your name to show in the footer
 author: Minh Nhat Trinh
@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: citations?user=FY2IcVAAAAAJ&hl=vi&oi=ao
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
