@@ -936,17 +936,17 @@ pre {
 }
 
 .box-note {
-  background-color: #eee;
+  background-color: #2980b9;
   border-left-color: #2980b9;
 }
 
 .box-warning {
-  background-color: #fdf5d4;
+  background-color: #f1c40f;
   border-left-color: #f1c40f;
 }
 
 .box-error {
-  background-color: #f4dddb;
+  background-color: #c0392b;
   border-left-color: #c0392b;
 }
 
