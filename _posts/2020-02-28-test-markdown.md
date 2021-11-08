@@ -40,6 +40,10 @@ var foo = function(x) {
 }
 foo(3)
 ~~~
+```python
+def function(x):
+  print("ngu")
+```
 
 And here is the same code with syntax highlighting:
 
