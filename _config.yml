@@ -15,9 +15,9 @@ author: Minh Nhat Trinh
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Categories:
+    - Pytorch: "https://minhnhattrinh312.github.io/tags/#pytorch"
+    - Deep Learning: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
